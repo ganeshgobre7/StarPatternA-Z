@@ -10,6 +10,7 @@ namespace StarPatternA_Z
             StarPattern pattern = new StarPattern();
             pattern.Apattern();
             pattern.Cpattern();
+            pattern.Dpattern();
         }
     }
 }
