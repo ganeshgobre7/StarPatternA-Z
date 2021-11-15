@@ -13,6 +13,7 @@ namespace StarPatternA_Z
             pattern.Dpattern();
             pattern.Epattern();
             pattern.Fpattern();
+            pattern.Gpattern();
         }
     }
 }
