@@ -14,6 +14,7 @@ namespace StarPatternA_Z
             pattern.Epattern();
             pattern.Fpattern();
             pattern.Gpattern();
+            pattern.Hpattern();
         }
     }
 }
