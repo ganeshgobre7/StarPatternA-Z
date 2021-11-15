@@ -171,5 +171,23 @@ namespace StarPatternA_Z
                 Console.WriteLine();
             }
         }
+        public void Kpattern()
+        {
+            for (int i = 1; i <= 5; i++)
+            {
+                for (int j = 1; j <= 5; j++)
+                {
+                    if (j == 1 || i + j == 5 || i - j == 1)
+                    {
+                        Console.Write("*");
+                    }
+                    else
+                    {
+                        Console.Write(" ");
+                    }
+                }
+                Console.WriteLine();
+            }
+        }
     }
 }
