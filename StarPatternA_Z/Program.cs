@@ -19,6 +19,7 @@ namespace StarPatternA_Z
             pattern.Jpattern();
             pattern.Kpattern();
             pattern.Lpattern();
+            pattern.Mpattern();
         }
     }
 }
