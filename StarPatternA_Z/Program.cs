@@ -8,7 +8,7 @@ namespace StarPatternA_Z
         {
             Console.WriteLine("Welcome to the A-Z Star Pattern Program!!!");
             StarPattern pattern = new StarPattern();
-      /*      pattern.Apattern();
+       /*     pattern.Apattern();
             pattern.Cpattern();
             pattern.Dpattern();
             pattern.Epattern();
@@ -19,8 +19,9 @@ namespace StarPatternA_Z
             pattern.Jpattern();
             pattern.Kpattern();
             pattern.Lpattern();
-            pattern.Mpattern();*/
-            pattern.Npattern();
+            pattern.Mpattern();
+            pattern.Npattern();*/
+            pattern.Opattern();
 
         }
     }
