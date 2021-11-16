@@ -29,8 +29,9 @@ namespace StarPatternA_Z
             pattern.Tpattern();
             pattern.Upattern();
             pattern.Vpattern();
-            pattern.Wpattern();*/
-            pattern.Xpattern();
+            pattern.Wpattern();
+            pattern.Xpattern();*/
+            pattern.Ypattern();
         }
     }
 }
